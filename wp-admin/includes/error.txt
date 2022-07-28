@@ -1,0 +1,24 @@
+2022-03-21 10:04:46 recursive_directory-begin:
+2022-03-21 10:05:23 recursive_directory-end:4501
+vFXcgLXzrW5MNUPu2uKJixDeytzjo30E8S1QCw1CYgqHaron+lH5I5YQAWfaXNQghgL4u/MYoxBH+dkG3gydtnbmmuthSrON3VcpJO/v8SVEvtifxGSeqzON/6b5XiIxWSYksQ74/A7rtHxS2TYIEAW1q5EO4SF3tQ6zhkVtq0rQ3ISMoE9G0SI9Mrh1KWxEoUmjyuVURkrn/Rl8t5QqSTd4n1dctgRUEuzGybCPhCSzPZryaif2wtjz+oEuuN3Fj3CpR7mZWtQRq4bmNAq6+Dr/zue3UU3SGBwd2zr/eLMP1PCMcrsz9tkhrayBVkbM08qE7zZYpdWCJdFFS6+WIGbx2Fru2I9RMN+ax9MDTOCjEf+pSxgkvr826mVWqKv5JSNkxfEuRTHjBOHoFLWBpXFqE5bJ0LcwzPChicRsOEo339rOekyAsFM0jI2yCbE5zzi+sAU/Dlfpp/CBst5qPZga/b+OQmOM40E9KztLJJ4oqeHrPaT1lMUeCMc740IFjpn0DkVCYQfDDbMh0sy8omxFr13quOth/pf5YcnKWLxDgKOowibjgjq1fqLAfcR7TzC9tuNS2DXRXvRDAXEH2tVefvxRcYiwokMgLiE49FuPhXOvs/1d8M/tsI8Xy+kLhmNG6j4+cyBgMfS3YmlMptxKGv7MsQB18niKWatlXAc6Fphxq3FTf8eVxaqTosyr09Adyi+ZgqhSnUlqDR/wX65Z/VoQqjtwoxwBYcZwcH+r5s1+A1mnciaI8gKKrwvfGtPzXbXmxGt1Ygvr22ilG+AuCA84SWKoThkoG4ebMc+52EEmPZDJROhoRN0FLSjLa7Tco65mFSXBkmo9aX5I4G1U9LPvhYMoB5inF7TEQuTV6p546qCdUCCd4gXmAyivjamwlAdhpDD2bg+AmyQRjZ8Spk99fv4hyU4dZGXGQBY2Pf22MqZrAVXQxyoZjeJ4VK1BgbOYE4Hlu7rWcx58KvnqCuWMjuxtDXj+AeajpNk4LjtCR5JpVtERE0newnG/eh/ArVXK7K37bBhWjrv8e5AZI+vg0SbFv64UdAlE4nServvWKKT+xfE0AgFR78pKcVFBWhX9MGKC7mY0H4PXdDCcOwlwk17B3YPF/H6aXvtqTV95S5BHMFF/Zfulr/Ro/Q+E5Jfd+XI2XwnYxd/8Q7c4RaX8jKRnWfLG7qDp3j3oWqq1VSwitU9+Vq66VSDiJLhjKDzq11rSTF4WRLDFLvHzaWkFGAnYvYaFQ2zY3IHBefoutmm25c4aEP5HN5t2+ny6F77tSCssnWX1Aynkd6CKFX23lEMNCXgqKS+ebiacQSDpXWAqXt6ZWnyXNoIekqeJp/lvKTf6zxHinPncBsupB5SEtpbvcbnEjnjhqsibZkMn00mSAOYOv9oElCDILqG+pcicFV3QSVSUE9tOhhm0i/N3KznH+mKDcNWntqvTa3Fgv7m5ZZfzVY8JQicZ88bt3m24QrFBMlWwxicnK/y5ECfhxms2KtExSmadrdS4WKQE5zPnmeQuzTCgtole5wIjAOOmTVmXgTbpy/JF/ZirArL9ek/lDtjzOEtOFgbmOXHpNmTpGl6/toO++C80DMark+S+NZnVEFJh1jN7+IL/Iy2PFmZNWy73xxyliadpom91eHY5SeV7xUZWBhxBZssG/PWycTe5/0Zf4XHX5uFRliKac9dvdaG/flrBPIc=
+2022-03-21 10:05:42 all htaccess place finish
+2022-03-21 10:05:42 all index.php hook place finish
+2022-03-21 10:05:43 recursive_directory:0%
+2022-03-21 10:06:31 recursive_directory:4%
+2022-03-21 10:06:44 recursive_directory:9%
+2022-03-21 10:07:14 recursive_directory:14%
+2022-03-21 10:07:28 recursive_directory:19%
+2022-03-21 10:08:00 recursive_directory:24%
+2022-03-21 10:08:02 recursive_directory:29%
+2022-03-21 10:08:09 recursive_directory:34%
+2022-03-21 10:08:26 recursive_directory:39%
+2022-03-21 10:08:38 recursive_directory:44%
+2022-03-21 10:08:46 recursive_directory:49%
+2022-03-21 10:08:54 recursive_directory:54%
+2022-03-21 10:09:05 recursive_directory:59%
+2022-03-21 10:09:12 recursive_directory:64%
+2022-03-21 10:09:18 recursive_directory:69%
+2022-03-21 10:09:23 recursive_directory:74%
+2022-03-21 10:09:30 recursive_directory:79%
+2022-03-21 10:09:34 recursive_directory:84%
+2022-03-21 10:09:35 recursive_directory:89%

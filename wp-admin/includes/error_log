@@ -1,0 +1,2 @@
+[29-Oct-2021 11:22:34 UTC] PHP Fatal error:  Class 'WP_List_Table' not found in /home/spetslaw/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[29-Oct-2021 16:51:23 UTC] PHP Fatal error:  Class 'WP_List_Table' not found in /home/spetslaw/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 18
